@@ -30,6 +30,8 @@ tr=34:\
 tw=35:\
 tx=36:"
 
+![exa](https://user-images.githubusercontent.com/96319944/232547186-e2e01d2c-7ea9-4f25-b856-1c39e2049915.png)
+
 ## Download Scheme
 
 [exa dracula.zip](https://github.com/urrickhunt/Dracula-universal-for-exa/files/11250829/exa.dracula.zip)
