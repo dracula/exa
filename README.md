@@ -30,6 +30,9 @@ tr=34:\
 tw=35:\
 tx=36:"
 
+[exa dracula.zip](https://github.com/urrickhunt/Dracula-universal-for-exa/files/11250829/exa.dracula.zip)
+
+
 ## Suggested Aliases
 
 For normal & larger displays include group (-g flag)
