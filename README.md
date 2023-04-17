@@ -2,7 +2,7 @@
 
 > Dracula Universal theme for [exa](https://github.com/ogham/exa).
 
-![with g](https://user-images.githubusercontent.com/96319944/232500762-df647f3a-1309-45c9-a297-98eaceb90254.png)
+![with g](https://user-images.githubusercontent.com/96319944/232595272-5a41e29e-e121-4ab7-a406-48fb77481a92.png)
 
 ## Install
 
