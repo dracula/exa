@@ -30,7 +30,7 @@ tr=34:\
 tw=35:\
 tx=36:"
 
-![exa](https://user-images.githubusercontent.com/96319944/232547186-e2e01d2c-7ea9-4f25-b856-1c39e2049915.png)
+![exa](https://user-images.githubusercontent.com/96319944/232595402-ef611d32-7ac3-41eb-a536-1816c9371c15.png)
 
 ## Download Scheme
 
