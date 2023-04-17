@@ -44,14 +44,14 @@ For normal & larger displays include group (-g flag)
 
 alias xl='exa -lag --icons --color=always'
 
-![with g](https://user-images.githubusercontent.com/96319944/232500841-0718e633-90d4-43cc-82af-c187e89e09b7.png)
+![with g](https://user-images.githubusercontent.com/96319944/232595498-7eb0a640-63af-4fb5-abeb-7a2a40a9dbb5.png)
 
 
 For smaller or limited displays no group 
 
 alias xl='exa -la --icons --color=always'
 
-![without g](https://user-images.githubusercontent.com/96319944/232500909-acb30fac-e599-48e3-bd4e-3d81d9b3901c.png)
+![without g](https://user-images.githubusercontent.com/96319944/232595553-75151e2d-b2fa-4be7-9351-cabd9b0ac5b0.png)
 
 
 ## Team
