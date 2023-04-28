@@ -34,9 +34,7 @@ tx=36:"
 
 ## Download Scheme
 
-[exa dracula.zip](https://github.com/urrickhunt/Dracula-universal-for-exa/files/11250829/exa.dracula.zip)
-
-
+[exa.dracula.zip](https://github.com/dracula/exa/files/11355370/exa.dracula.zip)
 
 ## Suggested Aliases
 
