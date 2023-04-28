@@ -12,7 +12,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-- Download using the [exa dracula.zip](https://github.com/urrickhunt/Dracula-universal-for-exa/files/11250829/exa.dracula.zip) link or
+- Download using the [exa dracula.zip](https://github.com/dracula/exa/files/11355370/exa.dracula.zip) link or
 - Download using the [GitHub `.zip` download](https://github.com/dracula/exa/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
