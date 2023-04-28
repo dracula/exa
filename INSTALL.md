@@ -18,10 +18,9 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 #### Activating theme
 
 1. Simply add the exa_colors to the end of your .zshrc:
-
-# ------------------------------
-# exa - Color Scheme Definitions
-# ------------------------------
+#### ------------------------------
+#### exa - Color Scheme Definitions
+#### ------------------------------
 export EXA_COLORS="\
 uu=36:\
 gu=37:\
@@ -40,7 +39,7 @@ tw=35:\
 tx=36:"
 
 
-## Suggested Aliases
+#### Suggested Aliases
 
 For normal & larger displays include group (-g flag)
 
