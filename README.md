@@ -10,9 +10,9 @@ Exa can now be themed universally meaning the same code works for both Dracula &
 
 Simply add this to the end of your .zshrc:
 
-# ------------------------------
-# exa - Color Scheme Definitions
-# ------------------------------
+#### ------------------------------
+#### exa - Color Scheme Definitions
+#### ------------------------------
 export EXA_COLORS="\
 uu=36:\
 gu=37:\
