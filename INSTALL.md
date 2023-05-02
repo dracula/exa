@@ -5,22 +5,24 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-
-    git clone https://github.com/dracula/exa.git
-
+git clone https://github.com/dracula/exa.git
 ```
 
 #### Install manually
 
-- Download using the [exa dracula.zip](https://github.com/dracula/exa/files/11355370/exa.dracula.zip) link or
-- Download using the [GitHub `.zip` download](https://github.com/dracula/exa/archive/refs/heads/main.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/exa/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Simply add the exa_colors to the end of your .zshrc:
+1. Simply add the exa_colors to the end of your `.zshrc`:
+
+```zshrc
 #### ------------------------------
+
 #### exa - Color Scheme Definitions
+
 #### ------------------------------
+
 export EXA_COLORS="\
 uu=36:\
 gu=37:\
@@ -37,16 +39,18 @@ gx=36:\
 tr=34:\
 tw=35:\
 tx=36:"
+```
 
+##### Suggested Aliases
 
-#### Suggested Aliases
+For normal & larger displays include group (`-g flag`):
 
-For normal & larger displays include group (-g flag)
+```zshrc
+alias xl='exa -lag --icons --color=always'
+```
 
-        alias xl='exa -lag --icons --color=always'
+For smaller or limited displays no group:
 
-For smaller or limited displays no group
-
-        alias xl='exa -la --icons --color=always'     
-
-
+```zshrc
+alias xl='exa -la --icons --color=always'
+```
